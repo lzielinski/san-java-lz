@@ -1,3 +1,3 @@
 san-java-lz
 ===========
-£ukasz
+ï¿½ukasz Zielinski
